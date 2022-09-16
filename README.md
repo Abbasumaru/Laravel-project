@@ -1,5 +1,5 @@
 ## Learning Admin
-This is a learning repository
+Debonair Training Onboarding Software
 
 ### Installation Instruction
 <ol>
@@ -7,15 +7,15 @@ This is a learning repository
 Clone repository
 
 ```
-git clone git@gitlab.com:muffycompo/learning-admin.git
+git clone https://github.com/Abbasumaru/Laravel-project.git
 
 cd learning-admin/
 ```
 </li>
 <li>
-Copy sample .env.sample file
+Copy example .env.example file
 
-`cp .env.sample .env`
+`cp .env.example .env`
 
 Edit the following environment variables inside the newly copied `.env` file
 
